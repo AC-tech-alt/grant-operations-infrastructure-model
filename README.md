@@ -95,3 +95,26 @@ MIT - see LICENSE (./LICENSE).
 ## Pressure test
 
 The scenarios above are the clean case. See examples/pressure-test.md (./examples/pressure-test.md) for a theoretical stress test against a complex international grant, including an honest look at where the model needed to bend.
+
+
+## Core concepts at a glance
+
+| Concept | One-line definition | In this example |
+|---|---|---|
+| Business Problem | A validated gap between current and desired state, named by a domain leader | $1B+ committed to deploy in year one, with no operational infrastructure built to support it responsibly |
+| Initiative | The chartered effort to close a Business Problem | Build the grant operations function, reporting directly to the CFO |
+| Workflow | The designed sequence of steps, roles, and systems that operationalizes part of an Initiative | Each of the five Workflows below: Infrastructure, Diligence and Structuring, Execution, Administration and Monitoring, Modifications and Closeout |
+| Execution Plan | The concrete build-out of a Workflow | The build steps under each Workflow's "Execution Plan" line |
+| Field Readiness | The state where people have what they need to run the Workflow | What "Field Readiness looks like" describes under each Workflow |
+| Adoption | Sustained, observed use of the Workflow under normal operating pressure | Program teams route every grant through the system, no exceptions |
+| Value Realization | The measured outcome the Initiative was chartered to produce | $1B+ deployed on schedule, audit-ready, grantees not bottlenecked by process |
+
+Full definitions live in business-enablement-concept-model (https://github.com/AC-tech-alt/business-enablement-concept-model/tree/main/concepts); this table shows how each concept maps onto this specific scenario.
+
+## Next steps
+
+- [ ] Validate the expedited diligence path from the pressure test against a live foreign-grantee case, not just the theoretical scenario
+- [ ] Build out the Execution template library beyond the four structure types named here (general operating, restricted, fiscal-sponsorship, cross-border)
+- [ ] Define the risk-tier criteria that should drive Administration and Monitoring cadence, not just dollar amount
+- [ ] Pressure-test the model against a high-volume, small-dollar grants program instead of a single large mandate
+- [ ] Add a worked example of the Modifications and Closeout path on a real multi-year grant
