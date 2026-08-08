@@ -88,3 +88,8 @@ Most grant operations builds get scored on whether the system went live, not on 
 ## License
 
 MIT - see LICENSE (./LICENSE).
+
+
+## Pressure test
+
+The scenarios above are the clean case. See examples/pressure-test.md (./examples/pressure-test.md) for a theoretical stress test against a complex international grant, including an honest look at where the model needed to bend.
