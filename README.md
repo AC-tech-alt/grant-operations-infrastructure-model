@@ -47,6 +47,10 @@ Field Readiness looks like: Program teams can open one system and see a grant's 
 
 Evidence this isn't theoretical: Architected the centralized grants and data infrastructure behind a $500M+ global portfolio, and served as Product Owner for a digital grants system transformation that built AI tools directly into Salesforce and grant reporting. A comparable infrastructure rebuild at a prior organization measurably increased cross-functional processing speed by 25% and executive decision-making capacity by 30%.
 
+![Illustrative reporting dashboard structure for the grant register and KPI system described above](./assets/grant-ops-dashboard-mockup.svg)
+
+*Illustrative mockup only — layout and metric categories, not real figures.*
+
 ### 2. Diligence and Structuring
 
 Execution Plan: A standard diligence protocol - organizational, financial, legal, compliance, and reputational - sized to the grant, so a small community grant and a large research commitment don't run through the same checklist.
