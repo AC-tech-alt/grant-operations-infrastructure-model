@@ -100,6 +100,11 @@ MIT - see LICENSE (./LICENSE).
 
 The scenarios above are the clean case. See examples/pressure-test.md (./examples/pressure-test.md) for a theoretical stress test against a complex international grant, including an honest look at where the model needed to bend.
 
+## Communication standards
+
+A workflow description says diligence and monitoring happen. It doesn't say how fast, or what happens when a grantee goes quiet, or who covers a case when someone is out. See examples/communication-standards.md (./examples/communication-standards.md) for what that looks like as an actual operating document — tiered turnaround commitments, an escalation ladder, and a rule for what to say when a timeline becomes genuinely unpredictable.
+
+
 
 ## Core concepts at a glance
 
