@@ -4,7 +4,7 @@
 
 A worked example: designing the operational backbone a foundation needs when it moves from a near-zero grantmaking base to responsibly deploying $1B+ a year — grant register, diligence framework, expenditure responsibility, AI-assisted tracking, and closeout — without treating "the systems are built" and "the systems are working" as the same milestone.
 
-Status: early / worked example. This models one hypothetical mandate end to end rather than defining a general framework.
+Status: early / worked example. This models one hypothetical mandate end to end rather than defining a general framework. See business-enablement-concept-model (https://github.com/AC-tech-alt/business-enablement-concept-model) for the underlying concept model this is built on, and client-engagement-leadership-model (https://github.com/AC-tech-alt/client-engagement-leadership-model) for another worked example built on the same model.
 
 ## The scenario
 
@@ -105,7 +105,7 @@ A workflow description says diligence and monitoring happen. It doesn't say how 
 | Adoption | Sustained, observed use of the Workflow under normal operating pressure | Program teams route every grant through the system, no exceptions |
 | Value Realization | The measured outcome the Initiative was chartered to produce | $1B+ deployed on schedule, audit-ready, grantees not bottlenecked by process |
 
-This table shows how each concept maps onto this specific scenario.
+Full definitions live in business-enablement-concept-model (https://github.com/AC-tech-alt/business-enablement-concept-model/tree/main/concepts); this table shows how each concept maps onto this specific scenario.
 
 ## Next steps
 
