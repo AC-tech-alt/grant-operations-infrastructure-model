@@ -4,7 +4,7 @@
 
 A worked example: designing the operational backbone a foundation needs when it moves from a near-zero grantmaking base to responsibly deploying $1B+ a year — grant register, diligence framework, expenditure responsibility, AI-assisted tracking, and closeout — without treating "the systems are built" and "the systems are working" as the same milestone.
 
-Status: early / worked example. This models one hypothetical mandate end to end rather than defining a general framework. See business-enablement-concept-model (https://github.com/AC-tech-alt/business-enablement-concept-model) for the underlying concept model this is built on.
+Status: early / worked example. This models one hypothetical mandate end to end rather than defining a general framework.
 
 ## The scenario
 
@@ -45,8 +45,6 @@ Execution Plan: Stand up the grant register, reporting-obligation tracker, and c
 
 Field Readiness looks like: Program teams can open one system and see a grant's full status - where it is in diligence, what's been signed, what's owed and when - without asking operations for a manual update.
 
-Evidence this isn't theoretical: Architected the centralized grants and data infrastructure behind a $500M+ global portfolio, and served as Product Owner for a digital grants system transformation that built AI tools directly into Salesforce and grant reporting. A comparable infrastructure rebuild at a prior organization measurably increased cross-functional processing speed by 25% and executive decision-making capacity by 30%.
-
 ![Illustrative reporting dashboard structure for the grant register and KPI system described above](./assets/grant-ops-dashboard-mockup.svg)
 
 *Illustrative mockup only — layout and metric categories, not real figures.*
@@ -57,15 +55,11 @@ Execution Plan: A standard diligence protocol - organizational, financial, legal
 
 Field Readiness looks like: Program teams know exactly what diligence a given grant size and structure requires before they bring it to operations, instead of discovering the requirement mid-negotiation.
 
-Evidence: Managed expenditure responsibility and anti-bribery/anti-corruption (ABAC) frameworks with 100% compliance across a $500M+ portfolio, and administered complex international compliance protocols spanning both public-charity and private-foundation regulatory regimes.
-
 ### 3. Execution - agreements
 
 Execution Plan: Templated grant agreements by structure type (general operating, restricted, fiscal-sponsorship, cross-border), with a defined approval chain through legal before funds move.
 
 Field Readiness looks like: Legal and program teams share a template library instead of redrafting agreement language for every new grant.
-
-Evidence: Directed the end-to-end lifecycle of 15 high-impact federal agreements, guiding financial modeling for $14M in active awards with senior-stakeholder-grade reporting transparency.
 
 ### 4. Administration and Monitoring
 
@@ -73,15 +67,11 @@ Execution Plan: Payment schedules, reporting-obligation calendars, and milestone
 
 Field Readiness looks like: A grantee report lands, gets reviewed against defined criteria, and either clears or escalates, with a record of which happened and when.
 
-Evidence: Currently directs operational execution and fiscal governance for a $500M+ global portfolio, leading a cross-functional team of 12 to 15 and shipping six major process enhancements that increased delivery scalability without a proportional increase in headcount.
-
 ### 5. Modifications and Closeout
 
 Execution Plan: A defined path for amendments, extensions, and renegotiated deliverables when circumstances change, and a closeout checklist that captures lessons learned instead of just archiving the file.
 
 Field Readiness looks like: A grant closes cleanly, with final reporting collected and reconciled, in a predictable amount of time rather than an open-ended tail.
-
-Evidence: Managed $50M+ in corporate social impact programs across 10+ Fortune 500 clients end to end, including a $5M rapid-response partnership that moved from structuring through closeout on a compressed timeline without cutting corners on compliance.
 
 ## Where I'd start (first 90 days)
 
@@ -95,7 +85,6 @@ Most grant operations builds get scored on whether the system went live, not on 
 
 MIT - see LICENSE (./LICENSE).
 
-
 ## Pressure test
 
 The scenarios above are the clean case. See examples/pressure-test.md (./examples/pressure-test.md) for a theoretical stress test against a complex international grant, including an honest look at where the model needed to bend.
@@ -103,8 +92,6 @@ The scenarios above are the clean case. See examples/pressure-test.md (./example
 ## Communication standards
 
 A workflow description says diligence and monitoring happen. It doesn't say how fast, or what happens when a grantee goes quiet, or who covers a case when someone is out. See examples/communication-standards.md (./examples/communication-standards.md) for what that looks like as an actual operating document — tiered turnaround commitments, an escalation ladder, and a rule for what to say when a timeline becomes genuinely unpredictable.
-
-
 
 ## Core concepts at a glance
 
@@ -118,7 +105,7 @@ A workflow description says diligence and monitoring happen. It doesn't say how 
 | Adoption | Sustained, observed use of the Workflow under normal operating pressure | Program teams route every grant through the system, no exceptions |
 | Value Realization | The measured outcome the Initiative was chartered to produce | $1B+ deployed on schedule, audit-ready, grantees not bottlenecked by process |
 
-Full definitions live in business-enablement-concept-model (https://github.com/AC-tech-alt/business-enablement-concept-model/tree/main/concepts); this table shows how each concept maps onto this specific scenario.
+This table shows how each concept maps onto this specific scenario.
 
 ## Next steps
 
